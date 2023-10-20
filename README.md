@@ -24,3 +24,5 @@ cd /path/to/your/app
 
 # Start your Node.js app
 pm2 start your-app.js
+
+cd public_html/sb.aseriujh-pechk.sa.com
